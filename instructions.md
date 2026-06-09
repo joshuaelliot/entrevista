@@ -36,3 +36,7 @@ branch.main.merge=refs/heads/main
 - ingresar el nombre de email 
 
 
+## local y personal = ambas iguales
+
+
+
