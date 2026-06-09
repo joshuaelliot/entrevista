@@ -35,4 +35,11 @@ branch.main.merge=refs/heads/main
 ## git config user.email  / email local 
 - ingresar el nombre de email 
 
+## -u es el acronimo de --set-upstream
+- que se usa normalmente con  origin /nombre de rama 
+
+## branch -r es para saber ramas remotas 
+
+## branch -vv para listar las ramas con upstream
+
 
