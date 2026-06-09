@@ -43,3 +43,7 @@ branch.main.merge=refs/heads/main
 ## branch -vv para listar las ramas con upstream
 
 
+## local y personal = ambas iguales
+
+
+
